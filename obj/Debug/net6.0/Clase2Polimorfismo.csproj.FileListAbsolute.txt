@@ -1,0 +1,15 @@
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\Clase2Polimorfismo.exe
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\Clase2Polimorfismo.deps.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\Clase2Polimorfismo.runtimeconfig.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\Clase2Polimorfismo.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\ref\Clase2Polimorfismo.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\bin\Debug\net6.0\Clase2Polimorfismo.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.csproj.AssemblyReference.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.AssemblyInfoInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.AssemblyInfo.cs
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.csproj.CoreCompileInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\ref\Clase2Polimorfismo.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Polimorfismo\obj\Debug\net6.0\Clase2Polimorfismo.genruntimeconfig.cache
